@@ -2,7 +2,7 @@
 My name is Azamat and I am a Front-end developer
 
 I have several skills including:
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.k2bindia.com%2Freact-js-ui-framework%2F&psig=AOvVaw1JgVKZO8aTUDz86D_YeBw8&ust=1726238038750000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCT__rPvYgDFQAAAAAdAAAAABAE">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.k2bindia.com%2Freact-js-ui-framework%2F&psig=AOvVaw1JgVKZO8aTUDz86D_YeBw8&ust=1726238038750000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCT__rPvYgDFQAAAAAdAAAAABAE](https://k2bindia.com/wp-content/uploads/2015/08/React.png)">
 <!--
 **AzamatJumamuratov/AzamatJumamuratov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
